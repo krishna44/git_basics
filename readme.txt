@@ -1,0 +1,1 @@
+this is my first git learning resouce. and everything is going well so far.
